@@ -1,2 +1,1 @@
-# FGCU-CodeLearner
-CodeLearner Android application. 
+# codeLearner
